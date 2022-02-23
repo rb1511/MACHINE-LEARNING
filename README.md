@@ -1,30 +1,40 @@
 
-# MACHINE LEARNING
+# <U>Machine Learning</U>
 
-Definition : Learn from Data & Solves Problem, It is a program that analyses data and learns to predict the outcome.
+### <B>Definition:-</B> 
+Learn from Data & Solves Problem, It is a program that analyses data and learns to predict the outcome.
 
-TYPES
-1 Supervised Learning : Supervised learning is a machine learning algorithm of inferring a function from labeled training data. The training data consists of a set of training examples.
+## <I>Types of Machine Learning</I>
 
-2 Unsupervised Learning: Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict.
+### <B>1. Supervised Learning:-</B>  
+Supervised learning is a machine learning algorithm of inferring a function from labeled training data. The training data consists of a set of training examples.
 
-3 Reinforcement Learning: Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
+### <B>2. Unsupervised Learning:-</B> 
+Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict.
 
-
-1. Supervised Learning
-
-I) Classification
-K-Nearest Neighbor
-Support Vector Machine
-Decision Tree
-Random Forest
-Naive Bayes
-Neural Network
-Stochastic Gradient Descent
+### <B>3. Reinforcement Learning:-</B> 
+Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
 
 
+## <I>Supervised Learning Classification</I>
 
-II) Regression
+I] K-Nearest Neighbor
+
+II] Support Vector Machine
+
+III] Decision Tree
+
+IV] Random Forest
+
+V] Naive Bayes
+
+VI] Neural Network
+
+VII] Stochastic Gradient Descent
+
+
+
+## <I>Supervised Learning Regression</I>
 
 Linear Regression: If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
 Logistic Regression: Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
