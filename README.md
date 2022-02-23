@@ -24,6 +24,8 @@ I] K-Nearest Neighbor
 
 II] Support Vector Machine
 
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGsupport-vector-machine-algorithm.png)
+
 III] Decision Tree
 
 IV] Random Forest
