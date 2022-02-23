@@ -20,11 +20,15 @@ Reinforcement learning is a machine learning training method based on rewarding 
 
 I] K-Nearest Neighbor
 
+
 ![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGKNN.JPG)
+
 
 II] Support Vector Machine
 
+
 ![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGsupport-vector-machine-algorithm.png)
+
 
 III] Decision Tree
 
