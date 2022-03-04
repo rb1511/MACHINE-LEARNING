@@ -60,7 +60,7 @@ Logistic regression is a process of modeling the probability of a discrete outco
 
 #### <B>Polynomial Regression:-</B>  
 Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
-![]()
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGPOLYREG.JPG)
 
 
 
