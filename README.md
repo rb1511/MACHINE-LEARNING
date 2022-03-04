@@ -51,7 +51,7 @@ VII] Stochastic Gradient Descent
 #### <B>Linear Regression:-</B> 
 If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
 
-![]()
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGLINEAR%20REGRESSION.JPG)
 
 #### <B>Logistic Regression:-</B>  
 Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
