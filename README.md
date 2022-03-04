@@ -73,7 +73,7 @@ Unsupervised learning is a machine learning technique in which models are not su
 Principle Component Analysis
 Hierarchical Clustering
 
-![]()
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGHIRACLUSTERING.JPG)
 
 Singular Value Decomposition
 Independent Component Analysis
@@ -96,15 +96,15 @@ A confusion matrix is a table that is often used to describe the performance of 
 
 
 
-## <I>1) HOW?</I>
+## <I>HOW?</I>
 
-1 Programming Languages
+#### <B>1) Programming Languages</B> 
 R
 Python
 
 
 
-## <I>2) Skills</I>
+#### <B>2) Skills</B>
 
 
 I) Mathematics
@@ -144,7 +144,7 @@ Power BI
 
 
 
-## <I>3) Steps</I>
+#### <B>3) Steps</B>
 Gathering Data
 Data preparation
 Choosing a model
@@ -156,7 +156,7 @@ Prediction
 
 
 
-## <I>4) Application</I>
+#### <B>4) Application</B>
 Disease Detection & Classification
 Advanced Technologies
 Social Media
