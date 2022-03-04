@@ -51,42 +51,52 @@ VII] Stochastic Gradient Descent
 #### <B>Linear Regression:-</B> 
 If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
 
-Logistic Regression: Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
+![]()
 
-Polynomial Regression: Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
+#### <B>Logistic Regression:-</B>  
+Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
+
+![]()
+
+#### <B>Polynomial Regression:-</B>  
+Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
+![]()
 
 
 
+## <I>Unsupervised Learning</I>
+#### <B>Clustering:-</B>  
+Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. It can be compared to learning which takes place in the human brain while learning new things.
 
-2. Unsupervised Learning
-Clustering: Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. It can be compared to learning which takes place in the human brain while learning new things.
+![]()
 
 Principle Component Analysis
 Hierarchical Clustering
+
+![]()
+
 Singular Value Decomposition
 Independent Component Analysis
 K- Means Clustering
 
 
 
-3 Reinforcement Learning
+## <I>Reinforcement Learning</I>
+Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
 
+## <I>Confusion matrix</I>
+A confusion matrix is a table that is often used to describe the performance of a classification model on a set of test data for which the true values are known
 
-A confusion matrix is a table that is often used
-to describe the performance of a classification
-model on a set of test data for which the true
-values are known
+## <I>3 Ways of Implementation</I>
 
-3 Ways of Implementation
-
-Model Based
-Policy Based
-Value Based
+#### <B>Model Based</B> 
+#### <B>Policy Based</B> 
+#### <B>Value Based</B> 
 
 
 
 
-HOW?
+## <I>1) HOW?</I>
 
 1 Programming Languages
 R
@@ -94,7 +104,7 @@ Python
 
 
 
-2 Skills
+## <I>2) Skills</I>
 
 
 I) Mathematics
@@ -134,7 +144,7 @@ Power BI
 
 
 
-3 Steps
+## <I>3) Steps</I>
 Gathering Data
 Data preparation
 Choosing a model
@@ -146,7 +156,7 @@ Prediction
 
 
 
-4 Application
+## <I>4) Application</I>
 Disease Detection & Classification
 Advanced Technologies
 Social Media
