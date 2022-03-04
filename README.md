@@ -36,6 +36,8 @@ III] Decision Tree
 
 IV] Random Forest
 
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGRANDOM%20FOREST.png)
+
 V] Naive Bayes
 
 VI] Neural Network
@@ -46,7 +48,9 @@ VII] Stochastic Gradient Descent
 
 ## <I>Supervised Learning Regression</I>
 
-Linear Regression: If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
+#### <B>Linear Regression:-</B> 
+If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
+
 Logistic Regression: Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
 
 Polynomial Regression: Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
