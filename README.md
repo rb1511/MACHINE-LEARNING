@@ -32,6 +32,8 @@ II] Support Vector Machine
 
 III] Decision Tree
 
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGDT.JPG)
+
 IV] Random Forest
 
 V] Naive Bayes
