@@ -87,6 +87,8 @@ Reinforcement learning is a machine learning training method based on rewarding 
 ## <I>Confusion matrix</I>
 A confusion matrix is a table that is often used to describe the performance of a classification model on a set of test data for which the true values are known
 
+![]()
+
 ## <I>3 Ways of Implementation</I>
 
 #### <B>Model Based</B> 
