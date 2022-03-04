@@ -68,15 +68,16 @@ Polynomial regression, like linear regression, uses the relationship between the
 #### <B>Clustering:-</B>  
 Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. It can be compared to learning which takes place in the human brain while learning new things.
 
-![]()
-
 Principle Component Analysis
+
 Hierarchical Clustering
 
 ![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGHIRACLUSTERING.JPG)
 
 Singular Value Decomposition
+
 Independent Component Analysis
+
 K- Means Clustering
 
 
@@ -87,7 +88,7 @@ Reinforcement learning is a machine learning training method based on rewarding 
 ## <I>Confusion matrix</I>
 A confusion matrix is a table that is often used to describe the performance of a classification model on a set of test data for which the true values are known
 
-![]()
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGCONFUSSION%20MATRIX.JPG)
 
 ## <I>3 Ways of Implementation</I>
 
@@ -98,10 +99,11 @@ A confusion matrix is a table that is often used to describe the performance of 
 
 
 
-## <I>HOW?</I>
+## <I>Requirements for ML</I>
 
 #### <B>1) Programming Languages</B> 
 R
+
 Python
 
 
@@ -109,67 +111,109 @@ Python
 #### <B>2) Skills</B>
 
 
-I) Mathematics
+#### <I>I) Mathematics</I>
+
 Linear Algebra
+
 Calculus
+
 Probability
 
 
-II) Statistics (Data Analytics)
+#### <I>II) Statistics (Data Analytics)</I>
+
 Mean
+
 Variance
+
 Inferential Statistics
+
 IQR
+
 Probability
+
 Descriptive Statistics
+
 Regression
+
 Correlation
+
 Hypothesis Testing
+
 Normal Distribution
+
 Range
+
 A/B Testing
+
 Mode
+
 Maximum Likelihood
+
 Standard Deviation
 
 
-III)Database
+#### <I>III)Database</I>
+
 MongoDB
+
 MySQl
 
 
 
-IV)BI Tools
+#### <I>IV)BI Tools</I>
+
 Qlik Sense
+
 Tableau
+
 Power BI
 
 
 
 #### <B>3) Steps</B>
+
 Gathering Data
+
 Data preparation
+
 Choosing a model
+
 Training
+
 Evaluation
+
 Parameter Tuning
+
 Prediction
 
 
 
 
 #### <B>4) Application</B>
+
 Disease Detection & Classification
+
 Advanced Technologies
+
 Social Media
+
 User Pattern Analysis
+
 Suggestions
+
 Autonomous Vehicle
+
 Pedestrian Detection
+
 Lane Detection
+
 Road Sign Detection
+
 Search Engines
+
 Analysis
+
 Prediction
 
 
