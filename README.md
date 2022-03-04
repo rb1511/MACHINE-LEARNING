@@ -56,7 +56,7 @@ If a single independent variable is used to predict the value of a numerical dep
 #### <B>Logistic Regression:-</B>  
 Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
 
-![]()
+![](https://github.com/rb1511/MACHINE-LEARNING/blob/main/IMGLOGI.jpeg)
 
 #### <B>Polynomial Regression:-</B>  
 Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
